@@ -15,7 +15,13 @@ Faster RCNN - Optimizer: SGD; Batch Size: 16
 ![alt text](https://github.com/BaluHarshavardan99/Object-Detection-Face-Mask-Detection/blob/main/SGD_B16_RESULTS.png)
 
 
+Faster RCNN - Optimizer: Adam; Batch Size:16   
 
+![alt text](https://github.com/BaluHarshavardan99/Object-Detection-Face-Mask-Detection/blob/main/adam_b16_epochs.png)
+
+
+Faster RCNN Predictions vs Target:  
+![alt text](https://github.com/BaluHarshavardan99/Object-Detection-Face-Mask-Detection/blob/main/Faster%20RCNN%20Predictions.png)
 
 
 
