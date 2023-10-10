@@ -7,7 +7,7 @@ a facial mask is important. This repository contains code for object detection t
 There are three classes in this dataset - 
 1) With mask;
 2) Without mask;
-3) Mask worn incorrectly.
+3) Mask worn incorrectly
 
 Two different algorithms were tested - 
 1) FASTER-RCNN
