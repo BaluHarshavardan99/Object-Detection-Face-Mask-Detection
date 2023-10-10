@@ -9,6 +9,10 @@ There are three classes in this dataset -
 2) Without mask;
 3) Mask worn incorrectly.
 
+Two different algorithms were tested - 
+1) FASTER-RCNN
+2) YOLO v5
+
 **Examples from Dataset:**  
 
 ![alt text](https://github.com/BaluHarshavardan99/Object-Detection-Face-Mask-Detection/blob/main/dataset_examples.png)
