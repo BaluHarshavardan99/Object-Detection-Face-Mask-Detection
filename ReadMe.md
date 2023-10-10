@@ -1,4 +1,12 @@
-Examples from Dataset:  
+
+
+**Object Detection - Face Mask Detection**
+With the prevalence of Covid-19, in order to control its spread, a algorithm to detect if one is wearing
+facial mask is important.
+
+This repository contains code for object detection to detect proper usage of mask by individuals.
+
+**Examples from Dataset:**  
 
 ![alt text](https://github.com/BaluHarshavardan99/Object-Detection-Face-Mask-Detection/blob/main/dataset_examples.png)
 
