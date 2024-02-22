@@ -1,6 +1,7 @@
 
 
 **Object Detection - Face Mask Detection**
+
 With the prevalence of COVID-19, in order to control its spread, an algorithm to detect if one is wearing
 a facial mask is important. This repository contains code for object detection to detect the proper usage of masks by individuals.
 
