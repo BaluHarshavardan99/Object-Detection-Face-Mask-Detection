@@ -17,7 +17,7 @@ Two different algorithms were tested -
 
 ![alt text](https://github.com/BaluHarshavardan99/Object-Detection-Face-Mask-Detection/blob/main/dataset_examples.png)
 
-**Annotation Example:**  
+<-- **Annotation Example:** --> 
 
 ![alt text](https://github.com/BaluHarshavardan99/Object-Detection-Face-Mask-Detection/blob/main/annotations.jpg)
 
